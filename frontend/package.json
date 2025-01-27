@@ -10,8 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@capacitor/android": "^7.0.1",
     "@capacitor/cli": "^7.0.1",
     "@capacitor/core": "^7.0.1",
+    "@capacitor/ios": "^7.0.1",
     "@mantine/carousel": "^7.16.2",
     "@mantine/charts": "^7.16.2",
     "@mantine/code-highlight": "^7.16.2",
